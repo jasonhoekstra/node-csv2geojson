@@ -1,0 +1,11 @@
+{ "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [41.881944,-87.627778]},
+      "properties": {"label": "Chicago"}
+      },
+    { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [40.716667,-74]},
+      "properties": {"label": "New York"}
+      },
+}
